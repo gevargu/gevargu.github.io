@@ -79,16 +79,17 @@
          
         @media screen and (min-width: 601px) {
             .button-group {
-                overflow-x: auto;  
-            }
-
-            .button-group::-webkit-scrollbar {
-                display: none;  
+                display: flex;
+                justify-content: center;  
             }
 
             .button-group a {
                 white-space: nowrap;  
-                margin: 10px;  
+                margin-right: 10px;  
+            }
+            
+            .button-group a:last-child {
+                margin-right: 0;  
             }
         }
     </style>
