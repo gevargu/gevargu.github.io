@@ -60,6 +60,21 @@
         .button-group a:last-child {
             margin-right: 0;  
         }
+                 
+                @media screen and (max-width: 600px) {
+            .button-group {
+                flex-wrap: wrap;  
+                justify-content: flex-start;  
+            }
+
+            .button-group a {
+                margin-right: 5px;  
+                margin-bottom: 5px;  
+                 
+                padding: 5px 10px;
+                font-size: 14px;
+            }
+        }
     </style>
 </head>
 
