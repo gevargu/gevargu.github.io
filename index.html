@@ -49,7 +49,6 @@
          
         .button-group {
             display: flex;
-            overflow-x: auto;  
             justify-content: center;  
         }
 
@@ -60,7 +59,7 @@
         .button-group a:last-child {
             margin-right: 0;  
         }
-        
+
          
         @media screen and (max-width: 600px) {
             .button-group {
@@ -76,15 +75,20 @@
                 font-size: 14px;
             }
         }
-        
+
          
         @media screen and (min-width: 601px) {
             .button-group {
-                overflow-x: hidden;  
+                overflow-x: auto;  
+            }
+
+            .button-group::-webkit-scrollbar {
+                display: none;  
             }
 
             .button-group a {
-                margin: 0;  
+                white-space: nowrap;  
+                margin: 0 10px;  
             }
         }
     </style>
