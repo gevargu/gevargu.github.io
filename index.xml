@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Forest Ecophysiology</title>
-    <link>/</link>
+    <link>https://gevargu.github.io/</link>
     <description>Recent content on Forest Ecophysiology</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>2024</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2024</copyright><atom:link href="https://gevargu.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
