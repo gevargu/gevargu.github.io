@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gevargu.github.io/hydraulictraits/</loc>
+  </url><url>
+    <loc>https://gevargu.github.io/joinus/</loc>
+  </url><url>
+    <loc>https://gevargu.github.io/people/</loc>
+  </url><url>
+    <loc>https://gevargu.github.io/publications/</loc>
+  </url><url>
     <loc>https://gevargu.github.io/</loc>
   </url>
 </urlset>
