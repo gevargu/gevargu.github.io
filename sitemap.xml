@@ -4,6 +4,12 @@
   <url>
     <loc>https://gevargu.github.io/</loc>
   </url><url>
+    <loc>https://gevargu.github.io/research/drought-tolerance/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://gevargu.github.io/research/global-change/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://gevargu.github.io/people.html</loc>
   </url><url>
     <loc>https://gevargu.github.io/joinus.html</loc>
